@@ -14,3 +14,6 @@ IDE: Visual Studio
 Python 3.6 
 
 Selenium 3.8.0
+
+【教學Tutorial】
+https://medium.com/@jasonhey789/python-selenium-%E8%87%AA%E5%8B%95%E5%A1%AB%E5%AF%AB%E7%B6%B2%E9%A0%81%E9%AB%94%E6%BA%AB%E7%A8%8B%E5%BC%8F-%E6%A9%9F%E5%99%A8%E4%BA%BA-%E7%88%AC%E8%9F%B2-92b824d1d385
